@@ -1,6 +1,6 @@
 {
-  "name": "react-persist-sqlite",
-  "version": "1.0.1",
+  "name": "redux-persist-sqlite",
+  "version": "1.0.0",
   "description": "use sqlite with react persist in cordova based apps",
   "author": "sumedh22",
   "license": "MIT",
