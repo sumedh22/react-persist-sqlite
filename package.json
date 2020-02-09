@@ -1,10 +1,10 @@
 {
-  "name": "redux-persist-sqlite",
+  "name": "redux-persist-cordova-sqlite",
   "version": "1.0.0",
   "description": "use sqlite with redux persist in cordova based apps",
   "author": "sumedh22",
   "license": "MIT",
-  "repository": "sumedh22/redux-persist-sqlite",
+  "repository": "sumedh22/redux-persist-cordova-sqlite",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
