@@ -12,7 +12,7 @@
     "react",
     "cordova",
     "react persist",
-    "react persist",
+    "react persist sqlite",
     "sqlite",
     "cordova sqlite"
   ],
